@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2000123551\\Downloads\\Case_Study-QuitQ-main\\Case_Study-QuitQ-main\\Backend\\CaseStudy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4950C7A9-3F43-42EC-AFC1-85C908431668}|CaseStudy\\CaseStudy.csproj|c:\\users\\2000123551\\downloads\\case_study-quitq-main\\case_study-quitq-main\\backend\\casestudy\\casestudy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4950C7A9-3F43-42EC-AFC1-85C908431668}|CaseStudy\\CaseStudy.csproj|solutionrelative:casestudy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4950C7A9-3F43-42EC-AFC1-85C908431668}|CaseStudy\\CaseStudy.csproj|c:\\users\\2000123551\\downloads\\case_study-quitq-main\\case_study-quitq-main\\backend\\casestudy\\casestudy\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4950C7A9-3F43-42EC-AFC1-85C908431668}|CaseStudy\\CaseStudy.csproj|solutionrelative:casestudy\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4950C7A9-3F43-42EC-AFC1-85C908431668}|CaseStudy\\CaseStudy.csproj|c:\\users\\2000123551\\downloads\\case_study-quitq-main\\case_study-quitq-main\\backend\\casestudy\\casestudy\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4950C7A9-3F43-42EC-AFC1-85C908431668}|CaseStudy\\CaseStudy.csproj|solutionrelative:casestudy\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4950C7A9-3F43-42EC-AFC1-85C908431668}|CaseStudy\\CaseStudy.csproj|c:\\users\\2000123551\\downloads\\case_study-quitq-main\\case_study-quitq-main\\backend\\casestudy\\casestudy\\controllers\\administratorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4950C7A9-3F43-42EC-AFC1-85C908431668}|CaseStudy\\CaseStudy.csproj|solutionrelative:casestudy\\controllers\\administratorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4950C7A9-3F43-42EC-AFC1-85C908431668}|CaseStudy\\CaseStudy.csproj|c:\\users\\2000123551\\downloads\\case_study-quitq-main\\case_study-quitq-main\\backend\\casestudy\\casestudy\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4950C7A9-3F43-42EC-AFC1-85C908431668}|CaseStudy\\CaseStudy.csproj|solutionrelative:casestudy\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4950C7A9-3F43-42EC-AFC1-85C908431668}|CaseStudy\\CaseStudy.csproj|c:\\users\\2000123551\\downloads\\case_study-quitq-main\\case_study-quitq-main\\backend\\casestudy\\casestudy\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4950C7A9-3F43-42EC-AFC1-85C908431668}|CaseStudy\\CaseStudy.csproj|solutionrelative:casestudy\\models\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4950C7A9-3F43-42EC-AFC1-85C908431668}|CaseStudy\\CaseStudy.csproj|c:\\users\\2000123551\\downloads\\case_study-quitq-main\\case_study-quitq-main\\backend\\casestudy\\casestudy\\controllers\\sellerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4950C7A9-3F43-42EC-AFC1-85C908431668}|CaseStudy\\CaseStudy.csproj|solutionrelative:casestudy\\controllers\\sellerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\2000123551\\Downloads\\Case_Study-QuitQ-main\\Case_Study-QuitQ-main\\Backend\\CaseStudy\\CaseStudy\\appsettings.json",
+              "RelativeDocumentMoniker": "CaseStudy\\appsettings.json",
+              "ToolTip": "C:\\Users\\2000123551\\Downloads\\Case_Study-QuitQ-main\\Case_Study-QuitQ-main\\Backend\\CaseStudy\\CaseStudy\\appsettings.json",
+              "RelativeToolTip": "CaseStudy\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-19T05:51:47.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\2000123551\\Downloads\\Case_Study-QuitQ-main\\Case_Study-QuitQ-main\\Backend\\CaseStudy\\CaseStudy\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CaseStudy\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\2000123551\\Downloads\\Case_Study-QuitQ-main\\Case_Study-QuitQ-main\\Backend\\CaseStudy\\CaseStudy\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CaseStudy\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-19T05:51:15.226Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\2000123551\\Downloads\\Case_Study-QuitQ-main\\Case_Study-QuitQ-main\\Backend\\CaseStudy\\CaseStudy\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "CaseStudy\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\2000123551\\Downloads\\Case_Study-QuitQ-main\\Case_Study-QuitQ-main\\Backend\\CaseStudy\\CaseStudy\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "CaseStudy\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T05:50:15.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\2000123551\\Downloads\\Case_Study-QuitQ-main\\Case_Study-QuitQ-main\\Backend\\CaseStudy\\CaseStudy\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "CaseStudy\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\2000123551\\Downloads\\Case_Study-QuitQ-main\\Case_Study-QuitQ-main\\Backend\\CaseStudy\\CaseStudy\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "CaseStudy\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAcAAAAAzczMzAwswBoAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T05:21:10.977Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\2000123551\\Downloads\\Case_Study-QuitQ-main\\Case_Study-QuitQ-main\\Backend\\CaseStudy\\CaseStudy\\Models\\Cart.cs",
+              "RelativeDocumentMoniker": "CaseStudy\\Models\\Cart.cs",
+              "ToolTip": "C:\\Users\\2000123551\\Downloads\\Case_Study-QuitQ-main\\Case_Study-QuitQ-main\\Backend\\CaseStudy\\CaseStudy\\Models\\Cart.cs",
+              "RelativeToolTip": "CaseStudy\\Models\\Cart.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T05:17:49.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SellersController.cs",
+              "DocumentMoniker": "C:\\Users\\2000123551\\Downloads\\Case_Study-QuitQ-main\\Case_Study-QuitQ-main\\Backend\\CaseStudy\\CaseStudy\\Controllers\\SellersController.cs",
+              "RelativeDocumentMoniker": "CaseStudy\\Controllers\\SellersController.cs",
+              "ToolTip": "C:\\Users\\2000123551\\Downloads\\Case_Study-QuitQ-main\\Case_Study-QuitQ-main\\Backend\\CaseStudy\\CaseStudy\\Controllers\\SellersController.cs",
+              "RelativeToolTip": "CaseStudy\\Controllers\\SellersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T05:17:45.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdministratorsController.cs",
+              "DocumentMoniker": "C:\\Users\\2000123551\\Downloads\\Case_Study-QuitQ-main\\Case_Study-QuitQ-main\\Backend\\CaseStudy\\CaseStudy\\Controllers\\AdministratorsController.cs",
+              "RelativeDocumentMoniker": "CaseStudy\\Controllers\\AdministratorsController.cs",
+              "ToolTip": "C:\\Users\\2000123551\\Downloads\\Case_Study-QuitQ-main\\Case_Study-QuitQ-main\\Backend\\CaseStudy\\CaseStudy\\Controllers\\AdministratorsController.cs",
+              "RelativeToolTip": "CaseStudy\\Controllers\\AdministratorsController.cs",
+              "ViewState": "AgIAAGMAAAAAMjMzM3MswAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T05:17:21.012Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
